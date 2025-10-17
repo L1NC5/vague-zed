@@ -110,7 +110,7 @@
           "type.builtin": {
             "color": "#9bb4bc",
             "font_style": null,
-            "font_weight": "bold"
+            "font_weight": 700
           },
           "class": {
             "color": "#9bb4bc",
@@ -279,7 +279,7 @@
         "title_bar.background": "#141415",
         "toolbar.background": "#141415",
 
-        "border": "#878787",
+        "border": "#252530",
         "border.variant": "#252530",
         "border.selected": "#6e94b2",
         "border.disabled": "#252530",
