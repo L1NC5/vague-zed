@@ -245,6 +245,7 @@
         "icon": "#cdcdcd",
         "icon.disabled": "#606079",
         "icon.placeholder": "#c3c3d5",
+        "debugger.accent": "#d8647e",
 
         "scrollbar_thumb.background": "#33373888",
         "scrollbar.track.background": "#1a1a1a",
