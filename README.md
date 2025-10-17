@@ -7,3 +7,4 @@
 ## Thanks to contributors
 
 - [L1NC5](https://github.com/L1NC5)
+- [Aejkatappaja](https://github.com/Aejkatappaja)
