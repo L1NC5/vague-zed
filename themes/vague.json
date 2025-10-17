@@ -174,12 +174,12 @@
           "error": {
             "color": "#d8647e",
             "font_style": null,
-            "font_weight": "bold"
+            "font_weight": 700
           },
           "warning": {
             "color": "#f3be7c",
             "font_style": null,
-            "font_weight": "bold"
+            "font_weight": 700
           },
           "emphasis": {
             "color": "#cdcdcd",
@@ -189,7 +189,7 @@
           "emphasis.strong": {
             "color": "#cdcdcd",
             "font_style": null,
-            "font_weight": "bold"
+            "font_weight": 700
           }
         },
 
@@ -279,7 +279,7 @@
         "title_bar.background": "#141415",
         "toolbar.background": "#141415",
 
-        "border": "#252530",
+        "border": "#878787",
         "border.variant": "#252530",
         "border.selected": "#6e94b2",
         "border.disabled": "#252530",
