@@ -265,6 +265,9 @@
         "editor.invisible": "#252530",
         "editor.subheader.background": "#141415",
         "editor.wrap_guide": "#2525300d",
+        "editor.document_highlight.bracket_background": "#333738",
+        "editor.document_highlight.read_background": "#333738",
+        "editor.document_highlight.write_background": "#333738",
 
         "elevated_surface.background": "#141415",
         "panel.background": "#141415",
