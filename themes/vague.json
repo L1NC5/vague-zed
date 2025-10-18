@@ -254,7 +254,7 @@
         "editor.document_highlight.read_background": "#333738",
         "editor.document_highlight.write_background": "#333738",
 
-        "elevated_surface.background": "#141415",
+        "elevated_surface.background": "#141415E6",
         "panel.background": "#141415",
 
         "search.match_background": "#4050651a",
