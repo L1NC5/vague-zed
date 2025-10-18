@@ -267,12 +267,12 @@
         "title_bar.background": "#141415",
         "toolbar.background": "#141415",
 
-        "border": "#878787",
-        "border.variant": "#252530",
+        "border": "#252530",
+        "border.variant": "#878787",
         "border.selected": "#6e94b2",
         "border.disabled": "#252530",
         "border.focused": "#405065",
-        "border.transparent": "#14141500",
+        "border.transparent": "#00000000",
 
         "terminal.ansi.black": "#252530",
         "terminal.ansi.bright_black": "#606079",
