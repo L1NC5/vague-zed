@@ -203,6 +203,24 @@
         "success.border": "#7fa563",
         "success.background": "#7fa5631a",
 
+        "conflict": "#f3be7c",
+        "conflict.border": "#f3be7c",
+        "conflict.background": "#f3be7c1a",
+
+        "created": "#7fa563",
+        "created.border": "#7fa563",
+        "created.background": "#7fa5631a",
+
+        "deleted": "#d8647e",
+        "deleted.border": "#d8647e",
+        "deleted.background": "#d8647e1a",
+
+        "version_control.added": "#7fa563",
+        "version_control.modified": "#f3be7c",
+        "version_control.deleted": "#d8647e",
+        "version_control.conflict_marker.ours": "#f3be7c33",
+        "version_control.conflict_marker.theirs": "#9bb4bc33",
+
         "status_bar.foreground": "#cdcdcd",
         "tab.active_foreground": "#6e94b2",
 
