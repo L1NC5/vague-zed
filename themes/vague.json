@@ -284,11 +284,10 @@
         "icon.placeholder": "#c3c3d5",
         "debugger.accent": "#d8647e",
 
-        "scrollbar_thumb.background": "#33373888",
-        "scrollbar.track.background": "#1a1a1a",
-        "scrollbar.thumb.hover_background": "#333738aa",
-        "scrollbar.track.border": "#191919",
-        "scrollbar.thumb.border": "#191919",
+        "scrollbar.thumb.background": "#33373878",
+        "scrollbar.thumb.hover_background": "#33373878",
+        "scrollbar.track.border": "#00000000",
+        "scrollbar.thumb.border": "#00000000",
 
         "drop_target.background": "#40506580",
 
