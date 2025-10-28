@@ -2,20 +2,20 @@
   "$schema": "https://zed.dev/schema/themes/v0.2.0.json",
   "name": "Vague",
   "author": "Aejkatappaja, L1NC5 (original vim theme by vague2k)",
-  "accents": [
-    "#c48282",
-    "#e8b589",
-    "#e0a363",
-    "#c3c3d5",
-    "#aeaed1",
-    "#bb9bdb",
-    "#6e94b2"
-  ],
   "themes": [
     {
       "name": "Vague",
       "appearance": "dark",
       "style": {
+        "accents": [
+          "#7e98e8",
+          "#6e94b2",
+          "#7fa563",
+          "#e8b589",
+          "#c48282",
+          "#bb9bdb",
+          "#aeaed1"
+        ],
         "background": "#141415",
         "syntax": {
           "comment": {
