@@ -262,7 +262,7 @@
         "text": "#cdcdcd",
         "text.accent": "#6e94b2",
         "text.disabled": "#606079",
-        "text.muted": "#a0a0aa",
+        "text.muted": "#cdcdcd",
         "text.placeholder": "#606079",
 
         "element.background": "#141415",
