@@ -199,6 +199,14 @@
         "hint.border": "#7e98e8",
         "hint.background": "#7e98e81a",
 
+        "hidden": "#606079",
+        "hidden.border": "#606079",
+        "hidden.background": "#6060791a",
+
+        "ignored": "#606079",
+        "ignored.border": "#606079",
+        "ignored.background": "#6060791a",
+
         "success": "#7fa563",
         "success.border": "#7fa563",
         "success.background": "#7fa5631a",
@@ -211,6 +219,10 @@
         "created.border": "#7fa563",
         "created.background": "#7fa5631a",
 
+        "modified": "#f3be7c",
+        "modified.border": "#f3be7c",
+        "modified.background": "#f3be7c1a",
+
         "deleted": "#d8647e",
         "deleted.border": "#d8647e",
         "deleted.background": "#d8647e1a",
@@ -220,6 +232,22 @@
         "version_control.deleted": "#d8647e",
         "version_control.conflict_marker.ours": "#f3be7c33",
         "version_control.conflict_marker.theirs": "#9bb4bc33",
+
+        "unreachable": "#606079",
+        "unreachable.border": "#606079",
+        "unreachable.background": "#6060791a",
+
+        "info": "#7e98e8",
+        "info.border": "#7e98e8",
+        "info.background": "#7e98e81a",
+
+        "predictive": "#606079",
+        "predictive.border": "#606079",
+        "predictive.background": "#6060791a",
+
+        "renamed": "#bb9dbd",
+        "renamed.border": "#bb9dbd",
+        "renamed.background": "#bb9dbd1a",
 
         "status_bar.foreground": "#cdcdcd",
         "tab.active_foreground": "#6e94b2",
