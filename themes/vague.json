@@ -306,6 +306,8 @@
         "editor.document_highlight.bracket_background": "#333738",
         "editor.document_highlight.read_background": "#333738",
         "editor.document_highlight.write_background": "#333738",
+        "editor.indent_guide": "#252530",
+        "editor.indent_guide_active": "#606079",
 
         "elevated_surface.background": "#141415",
         "panel.background": "#141415",
