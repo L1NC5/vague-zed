@@ -256,7 +256,7 @@
 
         "elevated_surface.background": "#141415",
         "panel.background": "#141415",
-        "panel.focused_border": "#405065",
+        "panel.focused_border": "#6e94b2",
 
         "search.match_background": "#4050651a",
 
