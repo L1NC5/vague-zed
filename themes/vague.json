@@ -7,8 +7,16 @@
       "name": "Vague",
       "appearance": "dark",
       "style": {
+        "accents": [
+          "#7e98e8",
+          "#6e94b2",
+          "#7fa563",
+          "#e8b589",
+          "#c48282",
+          "#bb9bdb",
+          "#aeaed1"
+        ],
         "background": "#141415",
-
         "syntax": {
           "comment": {
             "color": "#606079",
@@ -18,7 +26,6 @@
             "color": "#606079",
             "font_style": "italic"
           },
-
           "string": {
             "color": "#e8b589",
             "font_style": "italic"
