@@ -268,7 +268,7 @@
         "element.background": "#141415",
         "element.active": "#252530",
         "element.disabled": "#141415",
-        "element.hover": "#333738aa",
+        "element.hover": "#606079",
         "element.selected": "#252530",
 
         "ghost_element.background": "#141415",
