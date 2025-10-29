@@ -320,6 +320,7 @@
         "tab.inactive_background": "#141415",
         "tab_bar.background": "#141415",
         "title_bar.background": "#141415",
+        "title_bar.inactive_background": "#1c1c24",
         "toolbar.background": "#141415",
 
         "border": "#252530",
