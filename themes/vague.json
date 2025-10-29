@@ -178,9 +178,44 @@
 
         "players": [
           {
-            "background": "#141415",
+            "background": "#cdcdcd",
             "cursor": "#cdcdcd",
             "selection": "#333738aa"
+          },
+          {
+            "background": "#7e98e8",
+            "cursor": "#7e98e8",
+            "selection": "#7e98e844"
+          },
+          {
+            "background": "#6e94b2",
+            "cursor": "#6e94b2",
+            "selection": "#6e94b244"
+          },
+          {
+            "background": "#7fa563",
+            "cursor": "#7fa563",
+            "selection": "#7fa56344"
+          },
+          {
+            "background": "#e8b589",
+            "cursor": "#e8b589",
+            "selection": "#e8b58944"
+          },
+          {
+            "background": "#c48282",
+            "cursor": "#c48282",
+            "selection": "#c4828244"
+          },
+          {
+            "background": "#bb9bdb",
+            "cursor": "#bb9bdb",
+            "selection": "#bb9bdb44"
+          },
+          {
+            "background": "#aeaed1",
+            "cursor": "#aeaed1",
+            "selection": "#aeaed144"
           }
         ],
 
