@@ -188,7 +188,7 @@
           {
             "background": "#141415",
             "cursor": "#cdcdcd",
-            "selection": "#333738"
+            "selection": "#333738aa"
           }
         ],
 
@@ -302,9 +302,10 @@
         "editor.invisible": "#252530",
         "editor.subheader.background": "#141415",
         "editor.wrap_guide": "#2525300d",
-        "editor.document_highlight.bracket_background": "#333738",
-        "editor.document_highlight.read_background": "#333738",
-        "editor.document_highlight.write_background": "#333738",
+        "editor.document_highlight.bracket_background": "#333738aa",
+        "editor.document_highlight.read_background": "#6e94b2aa",
+        "editor.document_highlight.write_background": "#333738aa",
+
         "editor.indent_guide": "#252530",
         "editor.indent_guide_active": "#606079",
 
