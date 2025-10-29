@@ -19,28 +19,22 @@
         "background": "#141415",
         "syntax": {
           "comment": {
-            "color": "#606079",
-            "font_style": "italic"
+            "color": "#606079"
           },
           "comment.doc": {
-            "color": "#606079",
-            "font_style": "italic"
+            "color": "#606079"
           },
           "string": {
-            "color": "#e8b589",
-            "font_style": "italic"
+            "color": "#e8b589"
           },
           "string.special": {
-            "color": "#e8b589",
-            "font_style": "italic"
+            "color": "#e8b589"
           },
           "string.escape": {
-            "color": "#6e94b2",
-            "font_style": "italic"
+            "color": "#6e94b2"
           },
           "string.regex": {
-            "color": "#6e94b2",
-            "font_style": "italic"
+            "color": "#6e94b2"
           },
 
           "link_text": {
@@ -65,12 +59,10 @@
           },
 
           "character": {
-            "color": "#e8b589",
-            "font_style": "italic"
+            "color": "#e8b589"
           },
           "character.special": {
-            "color": "#6e94b2",
-            "font_style": "italic"
+            "color": "#6e94b2"
           },
 
           "variable.parameter": {
